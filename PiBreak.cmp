@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Thu 28 Nov 2013 11:43:43 EST
+
+BeginCmp
+TimeStamp = /525B8C25;
+Reference = P1;
+ValeurCmp = RASPBERRY_PI_P1;
+IdModule  = RASPBERRY_PI_P1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52967E2F;
+Reference = P2;
+ValeurCmp = CONN_17;
+IdModule  = 1X17;
+EndCmp
+
+BeginCmp
+TimeStamp = /52967F66;
+Reference = P3;
+ValeurCmp = CONN_8;
+IdModule  = 1X08;
+EndCmp
+
+BeginCmp
+TimeStamp = /52967F79;
+Reference = P4;
+ValeurCmp = CONN_8;
+IdModule  = 1X08;
+EndCmp
+
+BeginCmp
+TimeStamp = /52967F73;
+Reference = P5;
+ValeurCmp = CONN_8;
+IdModule  = 1X08;
+EndCmp
+
+EndListe
