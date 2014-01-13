@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 205.551667 93.98 274.144643 185.295)
     (thickness 1.6)
-    (drawings 220)
+    (drawings 221)
     (tracks 190)
     (zones 0)
     (modules 317)
@@ -20,7 +20,7 @@
     (17 F.Adhes user)
     (18 B.Paste user)
     (19 F.Paste user)
-    (20 B.SilkS user)
+    (20 B.SilkS user hide)
     (21 F.SilkS user)
     (22 B.Mask user)
     (23 F.Mask user)
@@ -5591,7 +5591,7 @@
   )
 
   (module LOGO_FREETRONICS_SMALL (layer F.Cu) (tedit 51FA0285) (tstamp 529746D9)
-    (at 259.08 125.73)
+    (at 259.08 124.46)
     (fp_text reference LOGO_FREETRONICS_SMALL (at -0.508 0) (layer F.SilkS) hide
       (effects (font (size 0.127 0.127) (thickness 0.03175)))
     )
@@ -5739,6 +5739,9 @@
     )
   )
 
+  (gr_text PWM (at 257.81 127) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.2)) (justify left))
+  )
   (gr_text 3V3 (at 214.6935 147.32) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
   )
