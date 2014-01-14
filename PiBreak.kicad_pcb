@@ -5609,13 +5609,13 @@
     )
   )
 
-  (module RASPBERRY_PI_P1 (layer F.Cu) (tedit 52C4E033) (tstamp 52968233)
+  (module RASPBERRY_PI_P1 (layer F.Cu) (tedit 52D4802F) (tstamp 52968233)
     (at 264.16 96.52)
     (path /525B8C25)
-    (fp_text reference P1 (at -45.5 86) (layer F.SilkS)
+    (fp_text reference P1 (at -45.5 86) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value RASPBERRY_PI_P1 (at -50 88) (layer F.SilkS)
+    (fp_text value RASPBERRY_PI_P1 (at -50 88) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -11.9915 71.0315) (end -28.4915 71.0315) (layer Cmts.User) (width 0.15))
