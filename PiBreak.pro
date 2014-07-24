@@ -1,4 +1,4 @@
-update=Mon 14 Oct 2013 14:44:19 EST
+update=Mon 14 Apr 2014 18:22:04 EST
 version=1
 last_client=eeschema
 [cvpcb]
@@ -49,7 +49,7 @@ LibName17=freetronics_kicad_pcb_lib
 [eeschema]
 version=1
 LibDir=library
-NetFmtName=
+NetFmtName=PcbnewAdvanced
 RptD_X=0
 RptD_Y=100
 RptLab=1
