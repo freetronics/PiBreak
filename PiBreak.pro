@@ -45,7 +45,7 @@ LibName13=led
 LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
-LibName17=freetronics_kicad_pcb_lib
+LibName17=freetronics_schematic
 [eeschema]
 version=1
 LibDir=library
@@ -85,4 +85,4 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=freetronics_kicad_sch_lib
+LibName31=freetronics_schematic

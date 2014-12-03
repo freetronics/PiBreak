@@ -1,45 +1,45 @@
-Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Mon 14 Apr 2014 17:00:58 EST
+Cmp-Mod V01 Created by Cvpcb (2014-11-24 BZR 5301)-product   date = Wed 03 Dec 2014 16:14:27 AEDT
 
 BeginCmp
 TimeStamp = /525B8C25;
 Reference = P1;
 ValeurCmp = RASPBERRY_PI_P1;
-IdModule  = RASPBERRY_PI_P1;
+IdModule  = FT:RASPBERRY_PI_P1;
 EndCmp
 
 BeginCmp
 TimeStamp = /52967E2F;
 Reference = P2;
 ValeurCmp = CONN_17;
-IdModule  = 1X17;
+IdModule  = FT:1X17;
 EndCmp
 
 BeginCmp
 TimeStamp = /52967F66;
 Reference = P3;
 ValeurCmp = CONN_8;
-IdModule  = 1X08;
+IdModule  = FT:1X08;
 EndCmp
 
 BeginCmp
 TimeStamp = /52967F79;
 Reference = P4;
 ValeurCmp = CONN_8;
-IdModule  = 1X08;
+IdModule  = FT:1X08;
 EndCmp
 
 BeginCmp
 TimeStamp = /52967F73;
 Reference = P5;
 ValeurCmp = CONN_8;
-IdModule  = 1X08;
+IdModule  = FT:1X08;
 EndCmp
 
 BeginCmp
 TimeStamp = /534B8765;
 Reference = P6;
 ValeurCmp = CONN_4X2;
-IdModule  = pin_array_4x2;
+IdModule  = FT:2X04;
 EndCmp
 
 EndListe
